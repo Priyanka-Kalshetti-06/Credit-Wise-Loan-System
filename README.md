@@ -5,4 +5,4 @@ Credit Wise Loan System is a machine learning project that predicts loan approva
 
 ### 🌐 Live Demo – Try the App
 
-https://credit-wise-loan-system-aubpsvlgpfv4urubweoejq.streamlit.app/](https://credit-wise-loan-system-aubpsvlgpfv4urubweoejq.streamlit.app/
+https://credit-wise-loan-system-aubpsvlgpfv4urubweoejq.streamlit.app/
